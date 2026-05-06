@@ -5,7 +5,7 @@ set -Eeuo pipefail
 # Works as both a migration installer and a fresh installer.
 # Migration mode preserves an existing KD5FMU/WA3DSP saytime.pl installation.
 
-REPO_TARBALL_URL="${REPO_TARBALL_URL:-https://github.com/KD5FMU/ASL3-WeatherAPI-Announce/raw/main/asl3-weatherapi-announce.tar.gz}"
+REPO_TARBALL_URL="${REPO_TARBALL_URL:-https://github.com/KD5FMU/Saytime-Weather-2026/raw/main/asl3-weatherapi-announce.tar.gz}"
 WORKDIR="$(mktemp -d /tmp/asl3-weatherapi-install.XXXXXX)"
 BACKUP_DIR="/root/asl3-weatherapi-backup-$(date +%F-%H%M%S)"
 LOG="/var/log/asl3-weatherapi-announce-install.log"
