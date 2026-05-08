@@ -19,3 +19,12 @@ Once the installer is finished you will have to update the config file to get th
 ```
 sudo nano /etc/asterisk/local/weatherapi.ini
 ```
+
+You can test the script by running the saytime script foloowed by the zip code and your node number ex:
+```
+sudo /usr/local/sbin/saytime.pl YOUR_ZIP YOUR_NODE_NUMBER
+```
+<br>
+
+I hope this helps
+73!
