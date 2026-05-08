@@ -25,10 +25,12 @@ You can test the script by running the saytime script foloowed by the zip code a
 sudo /usr/local/sbin/saytime.pl YOUR_ZIP YOUR_NODE_NUMBER
 ```
 <br>
+
 If you have not installed the legacy version of Saytime/Weather then you may need to add an entry in your crontab
 ```
 sudo crontab -e
 ```
+
 Then add this line
 ```
 # Hourly Time and Weather Announcement
