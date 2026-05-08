@@ -4,11 +4,11 @@
 
 set -u
 
-REPO_TARBALL_URL="https://github.com/KD5FMU/Saytime-Weather-2026/raw/main/asl3-weatherapi-announce.tar.gz"
+REPO_TARBALL_URL="https://github.com/KD5FMU/Saytime-Weather-2026/raw/main/asl3-weatherapi-announce-v2.tar.gz"
 ORIGINAL_SAYTIME_URL="https://raw.githubusercontent.com/KD5FMU/Time-Weather-Announce/refs/heads/main/saytime.pl"
 ORIGINAL_SOUND_ZIP_URL="http://198.58.124.150/tw/sound_files.zip"
 
-PAYLOAD_TAR="/tmp/asl3-weatherapi-announce.tar.gz"
+PAYLOAD_TAR="/tmp/asl3-weatherapi-announce-v2.tar.gz"
 WORKDIR="/tmp/asl3-weatherapi-install.$$"
 PAYLOAD_DIR="$WORKDIR/asl3_weatherapi_announce_payload"
 
