@@ -12,7 +12,7 @@ sudo chmod +x install_asl3_weatherapi_v2.sh
 ```
 Then we can execute the script
 ```
-sudo ./install_asl3_weatherapi_v2.sg
+sudo ./install_asl3_weatherapi_v2.sh
 ```
 
 Once the installer is fininshed you will have to update the config file to get the correct weather data
