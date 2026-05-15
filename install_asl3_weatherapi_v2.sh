@@ -179,7 +179,7 @@ show_config_notice() {
     echo
     echo " The hourly voice announcement is handled by root crontab:"
     echo
-    echo "   sudo crontab -l"
+    echo "   sudo crontab -e"
     echo
     echo "======================================================================"
     echo
