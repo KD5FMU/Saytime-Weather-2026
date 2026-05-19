@@ -1,5 +1,5 @@
 # Saytime-Weather-2026
-Top of the Hour Spoken Time and Weather Conditions announcement. UNDER CONSTRUCTION
+Top of the Hour Spoken Time and Weather Conditions announcement. BETA VERSION
 
 
 First we download the installer script file
