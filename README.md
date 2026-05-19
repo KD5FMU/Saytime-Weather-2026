@@ -1,7 +1,7 @@
 # Saytime-Weather-2026
 Top of the Hour Spoken Time and Weather Conditions announcement. BETA VERSION
 ## Important NOTE ##
-If youj install Supermon 8.0 after you install this script, you will need to run this installer again.
+If you install Supermon 8.0 after you install this script, you will need to run this installer again.
 <br>
 
 First we download the installer script file
