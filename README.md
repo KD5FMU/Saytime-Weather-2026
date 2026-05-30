@@ -42,3 +42,10 @@ Then add this line
 
 I hope this helps
 73!
+
+
+## License
+
+This project is licensed under the MIT License.
+
+By submitting a contribution to this repository, you agree that your contribution is licensed under the same MIT License.
