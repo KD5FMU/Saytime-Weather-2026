@@ -40,12 +40,26 @@ Then add this line
 ```
 <br>
 
+# Uninstaller Script for this App
+```
+sudo wget https://raw.githubusercontent.com/KD5FMU/Saytime-Weather-2026/refs/heads/main/uninstall_asl3_weatherapi_v2.sh
+```
+Then make it executable
+```
+sudo chmod +x uninstall_asl3_weatherspi_v2.sh
+```
+Then run it
+```
+sudo ./uninstall_asl3_weatherapi_v2.sh
+```
+
+
 I hope this helps
 73!
 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
 
 By submitting a contribution to this repository, you agree that your contribution is licensed under the same MIT License.
